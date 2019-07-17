@@ -1,0 +1,11 @@
+--- 
+title: James Edward Gray II
+interviewee: James Edward Gray II
+topic_list: Ruby Rogues beginnings | Panel podcast | Burnout | Playing w/ Ruby | Early Rails | Small Ruby community | Demand explosion | 10K hours | Ruby proficiency | Teaching kids | Feedback cycle | Jekyll 
+tags: James Edward Gray II, Ruby Rogues beginnings , Panel podcast , Burnout , Playing with Ruby , Early Rails , Small Ruby community , Demand explosion , 10K hours , Ruby proficiency , Teaching kids , Feedback cycle , Jekyll 
+soundcloud_id: 211455431
+date: 2015-06-22
+episode_number: 122
+---
+ 
+<p class="show_notes_display"><b>Sponsors:<br></b>- <a rel="nofollow" target="_blank" href="https://www.codeschool.com/">Code School</a><b><br></b>- <a rel="nofollow" target="_blank" href="http://mediatemple.net/?utm_source=BetweenScreens&amp;utm_medium=podcast&amp;utm_campaign=SCREEN25">Media Temple</a><b><br></b>   -&gt; Promo code SCREEN25 for 25% off web hosting<br><b><br>Questions:</b><br>- Please tell us more about your involvement with the <a rel="nofollow" target="_blank" href="http://devchat.tv/ruby-rogues/">Ruby Rogues Podcast</a> and how did it get started?<br>- What’s your involvement with the podcast these days or are you retired?<br>- When did you get started working with Ruby / Rails?<br>- For people who are new to coding, how much time do you think they should give themselves to figure out if programming is something they could be good at? I mean after all, getting into programming is maybe not as straight forward than getting into other crafts?<br><br><b>Links:<br></b><a rel="nofollow" target="_blank" href="https://www.ruby-lang.org/en/">Ruby</a><b><br></b><a rel="nofollow" target="_blank" href="http://jekyllrb.com/">Jekyll</a><br><a rel="nofollow" target="_blank" href="http://rubyonrails.org/">Ruby on Rails</a><br><a rel="nofollow" target="_blank" href="http://graysoftinc.com/">Gray Productions</a><br>James Edward Gray II on <a rel="nofollow" target="_blank" href="https://twitter.com/JEG2">Twitter</a><br>James Edward Gray II on <a rel="nofollow" target="_blank" href="https://github.com/JEG2">GitHub</a><br><a rel="nofollow" target="_blank" href="https://codalyzed.com/videos/lesscode">Codalyzed Screencast</a> about<a rel="nofollow" target="_blank" href="https://twitter.com/search?q=%23lesscode&amp;src=typd"> lesscode</a> and actively reading code<br></p>
